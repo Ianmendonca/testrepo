@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage
+coverage.xml
+.pytest_cache/
