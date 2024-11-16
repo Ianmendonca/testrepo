@@ -1,10 +1,10 @@
 # calculator.py
 class Calculator:
     def add(self, x, y):
-        return x + y*3
+        return x + y
     
     def subtract(self, x, y):
-        return x + y
+        return x - y
     
     def multiply(self, x, y):
         return x * y
