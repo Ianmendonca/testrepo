@@ -3,8 +3,8 @@ class Calculator:
     def add(self, x, y,z):
         return x + y + z
     
-    def subtract(self, x, y):
-        return x - y
+    def subtract(self, x, y, z):
+        return x - y -z
     
     def multiply(self, x, y):
         return x * y
